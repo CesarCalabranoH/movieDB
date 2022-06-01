@@ -1,0 +1,19 @@
+{
+  "name": "moviedb",
+  "version": "1.0.0",
+  "description": "Consumo de API con Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarCalabranoH/movieDB.git"
+  },
+  "author": "@CesarCalabranoH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CesarCalabranoH/movieDB/issues"
+  },
+  "homepage": "https://github.com/CesarCalabranoH/movieDB#readme"
+}
